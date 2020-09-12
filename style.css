@@ -1,0 +1,28 @@
+body{
+	background: linear-gradient(to right,red,yellow);
+}
+
+.container-1{
+	border: 1px solid black;
+	width: 75%;
+	margin:0 auto;
+	text-align: center;
+}
+
+.flex-box-container-2{
+	display: flex;
+	flex-wrap: wrap;
+	border: 1px green solid;
+	justify-content: space-around;
+}
+.flex-box-container-2 img{
+	border:1px solid purple;
+	margin: 10px;
+}
+
+h1{
+	text-transform: uppercase;
+	color: white;
+	
+	
+}
